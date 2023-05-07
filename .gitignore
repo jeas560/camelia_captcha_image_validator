@@ -1,0 +1,18 @@
+# Ignorar ambiente virtual (.venv)
+.venv/
+
+# Ignorar arquivos gerados pelo ambiente virtual
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Ignorar variáveis de ambiente
+.env
+
+# Ignorar arquivos gerados pelo vscode
+.vscode
+
+# Ignorar a pasta downloads
+downloads
